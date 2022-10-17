@@ -6,23 +6,24 @@
 
 ### Lời chào
 
-Xin chào mọi người, đầu tiên anh xin phép tự giới thiệu chút ít về bản thân mình. anh tên đầy đủ là Diệp Mỹ Dương, là một senior developer đã có 7 năm kinh nghiệm trong ngành lập trình. Với kinh nghiệm và kỹ năng đã từng tham gia và phát triển nhiều dự án thực tế, anh rất hân hạnh được Chủ tịch của tập đoạn Hitek Group, anh Khôi, mời tham gia phụ trách chia sẻ và hướng dẫn các bạn trong buổi học thử ngày hôm nay.
+<!--
+Xin chào mọi người, đầu tiên anh xin phép tự giới thiệu chút ít về bản thân mình. anh tên đầy đủ là Diệp Mỹ Dương, là một senior developer đã có 7 năm kinh nghiệm trong ngành lập trình. Với kinh nghiệm và kỹ năng đã từng tham gia và phát triển nhiều dự án thực tế, anh rất hân hạnh được Chủ tịch của tập đoạn Hitek Group, anh Khôi, mời tham gia phụ trách chia sẻ và hướng dẫn các bạn trong buổi học thử ngày hôm nay. -->
 
 <!-- > Slide chứa hình ảnh, năm kinh nghiệm, vị trí, vai trò -->
 
-Giờ chúng ta quay lại nội dung buổi học nhé. Trước khi bắt đầu lớp học, cho anh hỏi trong lớp học ngày hôm nay, bạn nào không có học từ chuyên ngành công nghệ thông tin không?
+<!-- Giờ chúng ta quay lại nội dung buổi học nhé. Trước khi bắt đầu lớp học, cho anh hỏi trong lớp học ngày hôm nay, bạn nào không có học từ chuyên ngành công nghệ thông tin không? -->
 
 <!-- > Chờ đợi học viên giơ tay tương tác. -->
 
-Và có bao nhiêu bạn đã có kiến thức cơ bản nhất định về lập trình web chưa ? Cụ thể là biết về HTML và CSS ?
+<!-- Và có bao nhiêu bạn đã có kiến thức cơ bản nhất định về lập trình web chưa ? Cụ thể là biết về HTML và CSS ? -->
 
 <!-- > Chờ đợi học viên tương tác -->
 
-Cám ơn các bạn. Chác hẳn các bạn trước khi tham gia vào buổi học thử này cũng đã có tham khảo qua thông tin lớp học trước rồi. Và anh cũng muốn nhắc lại mục địch của lớp học cũng như giá trị mà các bạn nhận được sau lớp học này. Lớp học của chúng ta sẽ chia làm 2 buổi học, ở buổi học đầu tiên, các bạn sẽ được học sử dụng các công cụ cần thiết để bắt đầu lập trình web, biết được cơ bản HTML và CSS là gì. Đặc biết là anh sẽ chỉ cho mọi người cách làm sao để làm được một website CV đẹp chuẩn chỉnh chỉ với những kiến thức cơ bản này. Các bạn có thích không?
+<!-- Cám ơn các bạn. Chác hẳn các bạn trước khi tham gia vào buổi học thử này cũng đã có tham khảo qua thông tin lớp học trước rồi. Và anh cũng muốn nhắc lại mục địch của lớp học cũng như giá trị mà các bạn nhận được sau lớp học này. Lớp học của chúng ta sẽ chia làm 2 buổi học, ở buổi học đầu tiên, các bạn sẽ được học sử dụng các công cụ cần thiết để bắt đầu lập trình web, biết được cơ bản HTML và CSS là gì. Đặc biết là anh sẽ chỉ cho mọi người cách làm sao để làm được một website CV đẹp chuẩn chỉnh chỉ với những kiến thức cơ bản này. Các bạn có thích không? -->
 
 <!-- > Slide chứa nội dung outline về buổi học đầu tiên -->
 
-Còn buổi học tiếp theo, vói thời gian ngắn ngủi 2 buổi học, sự thật là chúng ta sẽ không thể so sánh được với các lớp học chính quy từ đại học rồi. Nên anh sẽ chia sẻ nhiều giá trị nhất để các bạn có một hướng đi cụ thể cho con đường lập trình frontend sau này. Các bạn sẽ học được cách tự tạo hosting đưa website của chúng ta ra ngoài thế giới internet, sẽ ấn tượng nếu nhà tuyển dụng xem trực tiếp dự án của chúng ta trên mạng đúng không? Anh cũng sẽ chia sẽ thêm về lộ trình để các bạn phát triển những kỹ năng gì cần thiết cho lập trình viên front-end cũng như các vị trí mà các bạn có thể nhắm tới khi quyết định bước chân vào ngành IT. Và sẽ có một món quà đặc biệt dành cho các bạn kiên trì hoàn thành đủ 2 buổi học. Các bạn muốn biết đó là gì không?
+<!-- Còn buổi học tiếp theo, vói thời gian ngắn ngủi 2 buổi học, sự thật là chúng ta sẽ không thể so sánh được với các lớp học chính quy từ đại học rồi. Nên anh sẽ chia sẻ nhiều giá trị nhất để các bạn có một hướng đi cụ thể cho con đường lập trình frontend sau này. Các bạn sẽ học được cách tự tạo hosting đưa website của chúng ta ra ngoài thế giới internet, sẽ ấn tượng nếu nhà tuyển dụng xem trực tiếp dự án của chúng ta trên mạng đúng không? Anh cũng sẽ chia sẽ thêm về lộ trình để các bạn phát triển những kỹ năng gì cần thiết cho lập trình viên front-end cũng như các vị trí mà các bạn có thể nhắm tới khi quyết định bước chân vào ngành IT. Và sẽ có một món quà đặc biệt dành cho các bạn kiên trì hoàn thành đủ 2 buổi học. Các bạn muốn biết đó là gì không? -->
 
 <!-- > Slide chứa nội dung outline về buổi học thứ 2 -->
 
