@@ -257,14 +257,272 @@ Xoá **index-new-demo-1.html** bằng công cụ tìm kiếm của vscode
 
 ## Buổi 2: Lộ trình và cơ hội lập trình Front end
 
-### Tạo Hosting Website
+### Review nội dung buổi 1
 
-### Chia sẻ mục tiêu
+1. HTML là gì?
+2. CSS là gì?
+3. Công cụ VSCode?
+4. Extension Live Server
+5. Tìm kiếm giao diện trên themeforest
+6. Tải và sửa lỗi giao diện trên template
 
-### Lộ trình phát triển kỹ năng
+### Chỉnh sửa chi tiết CV Online
 
-### Lộ trình phát triển vị trí
+#### 1. Thay đổi hình ảnh
 
-### Cơ hội việc làm tại Hitek
+![Image](https://i.imgur.com/HuxMvPD.jpg)
 
-### Khoá học chuyên sâu
+![Image](https://i.imgur.com/Z1210FB.png)
+
+![Image](https://i.imgur.com/X20nb25.jpg)
+
+![Image](https://i.imgur.com/Ea0RcEP.jpg)
+
+![Image](https://i.imgur.com/z93AHI1.png)
+
+#### 2. Thay đổi nội dung text
+
+![Image](https://i.imgur.com/gSgQ0he.png)
+
+![Image](https://i.imgur.com/Ju0qtFW.png)
+
+![Image](https://i.imgur.com/8cTdc3z.png)
+
+![Image](https://i.imgur.com/7ewjU7P.png)
+
+#### 3. Thay đổi font chữ
+
+Bước 1: Tìm font trên google font
+
+    https://fonts.google.com/
+
+Bước 2: Chọn ngôn ngữ Tiếng Việt
+
+![Image](https://i.imgur.com/5ZJYM2W.png)
+
+Bước 3: Lựa chọn font và láy font name
+
+    https://fonts.google.com/specimen/Fuzzy+Bubbles/about?subset=vietnamese
+
+Font name là `Fuzzy+Bubbles`
+
+Bước 4: Cài đặt font vào website
+
+    <link href="https://fonts.googleapis.com/css?family=Fuzzy+Bubbles" rel="stylesheet">
+
+Bước 5: Thay đổi font
+
+![Image](https://i.imgur.com/tcmUxfT.png)
+
+![Image](https://i.imgur.com/CDfybyq.png)
+
+#### 4. Thay đổi màu sắc
+
+Bước 1: Tìm kiếm mã màu đang sử dụng
+
+![Image](https://i.imgur.com/IfgRMry.png)
+
+> Đang sử dụng mã `#78cc6d`
+
+Bước 2: Thay thế mã màu khác
+
+Có thể vào website sau để láy bảng phối màu đẹp
+
+    https://colorhunt.co/
+
+![Image](https://i.imgur.com/L7aXicj.png)
+
+![Image](https://i.imgur.com/4YKDbGM.png)
+
+![Image](https://i.imgur.com/S446Mqh.jpg)
+
+Bước 3: Đổi màu ảnh nền
+
+![Image](https://i.imgur.com/KsiHxLk.png)
+
+- Đang sử dụng mã `#50a3a2`. Đổi thành mã `#F5EFE6`
+
+![Image](https://i.imgur.com/iW8xfWR.jpg)
+
+Bước 4: Đổi màu khung ảnh
+
+![Image](https://i.imgur.com/daKwHYG.png)
+
+- Đang sử dụng mã màu `rgba(126, 204, 109, 0.4)`
+
+![Image](https://i.imgur.com/o8g903i.png)
+
+![Image](https://i.imgur.com/idZ3diN.png)
+
+![Image](https://i.imgur.com/d7kWdAE.jpg)
+
+#### 5. Thêm bớt, tuỳ chỉnh chi tiết
+
+Bước 1: Ẩn menu không cần thiét
+
+![Image](https://i.imgur.com/F9goA8B.png)
+
+![Image](https://i.imgur.com/koYteVP.png)
+
+![Image](https://i.imgur.com/hoNsXcg.png)
+
+Bước 2: Ẩn nội dung đánh giá
+
+![Image](https://i.imgur.com/5soheEQ.jpg)
+
+Bước 3: Thêm kinh nghiệm làm việc
+
+![Image](https://i.imgur.com/pXey3H0.jpg)
+
+![Image](https://i.imgur.com/EOiQo7v.png)
+
+![Image](https://i.imgur.com/BgaodUN.png)
+
+![Image](https://i.imgur.com/9cOpwmt.png)
+
+#### 6. Cách làm nội dung CV
+
+Bước 1: Lên các trang web tuyển dụng. Ví dụ:
+
+    https://itviec.com/
+
+Bước 2: Tìm kiếm công ty phù hợp và đọc kỹ **Job Description**
+
+![Image](https://i.imgur.com/UYLv93i.png)
+
+Bước 3: Sử dụng chính nội dung mô tả công việc và yêu cầu kỹ năng từ thông tin tuyển dụng cho phần giới thiệu trong CV. Như vậy khả năng gây ứng tượng tốt với doanh nghiệp mà mình ứng tuyển sẽ cao hơn rất nhiều vì mình chính là người họ đang cần tuyển dụng.
+
+### Quy trình xây dựng một website
+
+Bước 1: Phác thảo ý tưởng, bố cục website.
+
+![Image](https://i.imgur.com/ExrWKKB.jpg)
+
+Bước 2: Design hoàn thiện ý tưởng thành các file thiết kế.
+
+![Image](https://www.xfive.co/wp-content/uploads/2017/12/figma-prototype2-1675x1116.jpg)
+
+Bước 3: Chuyển đổi thiết kế thành HTML, CSS và Javascript.
+
+![Image](https://cdn-media-1.freecodecamp.org/images/1*YZOpTO65ASByn5i29VDmRQ.png)
+
+Bước 4: Đăng tải nội dung HTML, CSS và Javascript lên Hosting
+
+![Image](https://qph.cf2.quoracdn.net/main-qimg-9b07b15a6bbe7a6167d847d6447dbbcb.webp)
+
+### Upload hosting Firebase
+
+#### 1. Đăng ký tài khoản firebase
+
+Truy cập firebase
+
+    https://firebase.google.com/
+
+> Chọn "Get Started" > Đăng nhập bằng tài khoản Google
+
+#### 2. Tạo project firebase
+
+Chọn "Create Project" > Nhập tên project
+
+> Lưu ý: Tên project được dùng làm tên miền website luôn
+> `https://<tên-project>.web.app`
+
+![Image](https://i.imgur.com/gdUoSO4.png)
+
+#### 3. Cài đặt firebase tool
+
+Truy cập trang tài liệu
+
+    https://firebase.google.com/docs/cli#mac-linux-auto-script
+
+**WINDOW**
+
+Tải file cài đặt
+
+    https://firebase.tools/bin/win/instant/latest
+
+**MAC**
+
+Bật Terminal chạy câu lệnh sau:
+
+    curl -sL https://firebase.tools | bash
+
+**Đăng nhập tài khoản firebase**
+
+Bật Terminal gõ dòng lệnh
+
+    firebase login
+
+#### 4. Deploy source lên firebase hosting
+
+**Khởi tạo project**
+
+Bật Terminal của VSCode đang mở thư mục chứa website. Gõ câu lênh sau:
+
+    firebase init
+
+![Image](https://i.imgur.com/HTuUwJI.png)
+
+Lựa chọn **Firebase Hosting** và **Enter**
+
+![Image](https://i.imgur.com/b0LjW4K.png)
+
+Lựa chon **Use a existing project** và **Enter**
+
+![Image](https://i.imgur.com/BGGkqUl.png)
+
+Vào **Project Setting** của Firebase để láy **Project ID**
+
+![Image](https://i.imgur.com/yMCkxBK.png)
+
+Gõ **Project ID** vào và tiếp tục
+
+![Image](https://i.imgur.com/VllhDLm.png)
+
+Để Tất cả cấu hình còn lại theo mặc định
+
+![Image](https://i.imgur.com/F56iXO4.png)
+
+Copy tất cả file và thư mục vào folder **public**
+
+![Image](https://i.imgur.com/gBnK2QO.png)
+
+Gõ câu lệnh sau để upload website lên cloud
+
+    firebase deploy
+
+![Image](https://i.imgur.com/FSi5kNA.png)
+
+### Chia sẻ và lộ trình làm front-end developer
+
+1. Cơ bản: HTML, CSS, Javascript
+2. Thiết kế: Photoshop, Figma,...
+3. Quản lý source code: Git. Sử dụng `github, gitlab, bitbucket`
+4. Sử dụng Platform CSS: Bootstrap, SCSS, TailwinCSS,...
+5. Sử dụng Platform Front-End: ReactJS, AngularJS, VueJS,...
+6. Lập trình Server Side: PHP, Nodejs, Next, Nuxt,...
+7. Lập trình Mobile: Flutter, Dart, ReactNative,...
+8. Kỹ năng mềm:
+
+- Quản lý task, Estimate thời gian
+- Ngoại ngữ: Tiếng anh
+- ...
+
+9. Team Leader & Project Manager:
+
+- Quy trình Agile Scrum, Kanban,...
+- Đặc tả yêu cầu từ các sơ đồ: UML, BPMN,..
+
+10. Tech Lead & DevOp
+
+- Tự động hoá CI / CD
+- Đóng gói Docker
+- Hệ thống deploy: Docker Swarm, K8s,...
+- Quản lý Cloud Service: AWS, Google Cloud, Azure,...
+
+### Phương pháp học
+
+1. Tự Học Online
+2. Khoá Học Offline
+3. Trải nghiệm thực tế
+4. Khoá học chuyên sau từ Hitek Academy
