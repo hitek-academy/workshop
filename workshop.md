@@ -390,7 +390,7 @@ Bước 2: Tìm kiếm công ty phù hợp và đọc kỹ **Job Description**
 
 ![Image](https://i.imgur.com/UYLv93i.png)
 
-Bước 3: Sử dụng chính nội dung mô tả công việc và yêu cầu kỹ năng từ thông tin tuyển dụng cho phần giới thiệu trong CV. Như vậy khả năng gây ứng tượng tốt với doanh nghiệp mà mình ứng tuyển sẽ cao hơn rất nhiều vì mình chính là người họ đang cần tuyển dụng.
+Bước 3: Sử dụng chính nội dung mô tả công việc và yêu cầu kỹ năng từ thông tin tuyển dụng cho phần giới thiệu trong CV. Như vậy khả năng gây ấn tượng tốt với doanh nghiệp mà mình ứng tuyển sẽ cao hơn rất nhiều vì mình chính là người họ đang cần tuyển dụng.
 
 ### Quy trình xây dựng một website
 
