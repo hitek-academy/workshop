@@ -270,25 +270,32 @@ Xoá **index-new-demo-1.html** bằng công cụ tìm kiếm của vscode
 
 #### 1. Thay đổi hình ảnh
 
+Bước 1: Mở công cụ **Inspect** của Google Chrome bằng cách nhấn **F12** Hoặc Nhấp chuột phải lên màn hình > Chọn **Inspect**
 ![Image](https://i.imgur.com/HuxMvPD.jpg)
 
+Bước 2: Sử dụng tính năng **Selector** của **Inspect** để tìm kiếm nội dung của hình ảnh đang làm gì. Chung ta sẽ thấy được hình ảnh đang được láy từ file hình chứa ở thư mục `/images/man5_big.jpg`
 ![Image](https://i.imgur.com/Z1210FB.png)
-
 ![Image](https://i.imgur.com/X20nb25.jpg)
 
+Bước 3: Thay thế hình ảnh `/images/man5_big.jpg` bằng hình của các bạn
 ![Image](https://i.imgur.com/Ea0RcEP.jpg)
 
-![Image](https://i.imgur.com/z93AHI1.png)
+> Xem lại kết quả sau khi đổi hình
+> ![Image](https://i.imgur.com/z93AHI1.png)
 
 #### 2. Thay đổi nội dung text
 
+Bước 1: Copy nội dung mà bạn muốn chỉnh sửa. Ở đây mình sẽ chỉnh sửa lại tên CV. Hãy copy từ `Ryan Adlard`.
 ![Image](https://i.imgur.com/gSgQ0he.png)
 
+Bước 2: Quay lại file `index.html`. Sử dụng tính năng tìm kiếm của `VSCode` để tìm xem nội dung `Ryan Adlard` nằm ở đoạn nào trong file. Hãy nhấp tổ hợp phím `Cmd + F` hoặc `Control + F` để bật khung tìm kiếm.
 ![Image](https://i.imgur.com/Ju0qtFW.png)
 
+Bước 3: Thay thế nội dung bằng tên của chúng ta.
 ![Image](https://i.imgur.com/8cTdc3z.png)
 
-![Image](https://i.imgur.com/7ewjU7P.png)
+> Xem lại kết quả sau khi đổi tên
+> ![Image](https://i.imgur.com/7ewjU7P.png)
 
 #### 3. Thay đổi font chữ
 
@@ -314,17 +321,16 @@ Bước 5: Thay đổi font
 
 ![Image](https://i.imgur.com/tcmUxfT.png)
 
-![Image](https://i.imgur.com/CDfybyq.png)
+> Xem lại kết quả sau khi đổi Font chữ
+> ![Image](https://i.imgur.com/CDfybyq.png)
 
 #### 4. Thay đổi màu sắc
 
-Bước 1: Tìm kiếm mã màu đang sử dụng
+Bước 1: Sử dụng `Inspector` Tìm kiếm mã màu đang sử dụng. Website đang sử dụng mã màu `#78cc6d`
 
 ![Image](https://i.imgur.com/IfgRMry.png)
 
-> Đang sử dụng mã `#78cc6d`
-
-Bước 2: Thay thế mã màu khác
+Bước 2: Tìm kiếm bảng màu ưu thích
 
 Có thể vào website sau để láy bảng phối màu đẹp
 
@@ -332,53 +338,61 @@ Có thể vào website sau để láy bảng phối màu đẹp
 
 ![Image](https://i.imgur.com/L7aXicj.png)
 
+Bước 4: Thay thế mã màu bằng công cụ `Search` của `VSCode`
+
 ![Image](https://i.imgur.com/4YKDbGM.png)
 
-![Image](https://i.imgur.com/S446Mqh.jpg)
+> Xem lại két quả sau khi đổi màu
+> ![Image](https://i.imgur.com/S446Mqh.jpg)
 
-Bước 3: Đổi màu ảnh nền
+Bước 5: Đổi màu ảnh nền. Tìm kiếm mã màu nền bằng `Inspector`. Đang sử dụng mã `#50a3a2`. Đổi thành mã `#F5EFE6`
 
 ![Image](https://i.imgur.com/KsiHxLk.png)
 
-- Đang sử dụng mã `#50a3a2`. Đổi thành mã `#F5EFE6`
+> Xem lại kết quả sau khi đổi
+> ![Image](https://i.imgur.com/iW8xfWR.jpg)
 
-![Image](https://i.imgur.com/iW8xfWR.jpg)
-
-Bước 4: Đổi màu khung ảnh
+Bước 6: Đổi màu khung ảnh. Tìm kiếm mã màu khung bằng `Inspector`. Đang sử dụng mã. Đang sử dụng mã màu `rgba(126, 204, 109, 0.4)`
 
 ![Image](https://i.imgur.com/daKwHYG.png)
 
-- Đang sử dụng mã màu `rgba(126, 204, 109, 0.4)`
-
+Bước 7:: Tìm kiếm và thay thế mã màu khung. Do nội dung code mà nội dung trình duyệt xuất ra sẽ không giống hoàn toàn. Nên sẽ searcb từ khoá `rgba(120,204,109,.4)` và thay thế bằng mã màu `rgba(60,35,23,0.4)`
 ![Image](https://i.imgur.com/o8g903i.png)
 
 ![Image](https://i.imgur.com/idZ3diN.png)
 
-![Image](https://i.imgur.com/d7kWdAE.jpg)
+> Xem lại kétt quả sau khi đổi
+> ![Image](https://i.imgur.com/d7kWdAE.jpg)
 
 #### 5. Thêm bớt, tuỳ chỉnh chi tiết
 
-Bước 1: Ẩn menu không cần thiét
-
+Bước 1: Ẩn menu không cần thiét. Dùng `Inspector` để xem thông tin của nút Menu là gì.
 ![Image](https://i.imgur.com/F9goA8B.png)
 
+Nút có `class` là `menu-btn`
 ![Image](https://i.imgur.com/koYteVP.png)
 
+Tìm kiếm nội dung `menu-btn`. Sau đó xoá thẻ menu này đi hoặc ẩn đi bằng cách gõ `Cmd + /` hoặc `Control + /`
 ![Image](https://i.imgur.com/hoNsXcg.png)
 
-Bước 2: Ẩn nội dung đánh giá
-
+Bước 2: Ẩn nội dung đánh giá. Dùng `Inspector` để xem nội dung Đánh giá có thông tin định danh nào.
 ![Image](https://i.imgur.com/5soheEQ.jpg)
+
+> Bài tập hãy ẩn tất cả nội dung phần Đánh giá
 
 Bước 3: Thêm kinh nghiệm làm việc
 
+Dùng `Inspector` để tìm kiếm thông tin Nội dung kinh nghiệm làm việc.
 ![Image](https://i.imgur.com/pXey3H0.jpg)
 
+Nội dung được để trong thẻ `<div>` có `class` là `resume-item border-line-h active`
 ![Image](https://i.imgur.com/EOiQo7v.png)
 
+Tìm kiếm nội dung `resume-item border-line-h active` trong file `inđex.html`. Sau đó copy tạo ra thêm 1 `<div>` tương tự và chỉnh sửa thêm nội dung.
 ![Image](https://i.imgur.com/BgaodUN.png)
 
-![Image](https://i.imgur.com/9cOpwmt.png)
+> Xem lại két quả sau khi thêm kinh nghiệm làm việc
+> ![Image](https://i.imgur.com/9cOpwmt.png)
 
 #### 6. Cách làm nội dung CV
 
@@ -392,7 +406,7 @@ Bước 2: Tìm kiếm công ty phù hợp và đọc kỹ **Job Description**
 
 Bước 3: Sử dụng chính nội dung mô tả công việc và yêu cầu kỹ năng từ thông tin tuyển dụng cho phần giới thiệu trong CV. Như vậy khả năng gây ấn tượng tốt với doanh nghiệp mà mình ứng tuyển sẽ cao hơn rất nhiều vì mình chính là người họ đang cần tuyển dụng.
 
-### Quy trình xây dựng một website
+<!-- ### Quy trình xây dựng một website
 
 Bước 1: Phác thảo ý tưởng, bố cục website.
 
@@ -408,7 +422,7 @@ Bước 3: Chuyển đổi thiết kế thành HTML, CSS và Javascript.
 
 Bước 4: Đăng tải nội dung HTML, CSS và Javascript lên Hosting
 
-![Image](https://qph.cf2.quoracdn.net/main-qimg-9b07b15a6bbe7a6167d847d6447dbbcb.webp)
+![Image](https://qph.cf2.quoracdn.net/main-qimg-9b07b15a6bbe7a6167d847d6447dbbcb.webp) -->
 
 ### Upload hosting Firebase
 
@@ -440,6 +454,16 @@ Truy cập trang tài liệu
 Tải file cài đặt
 
     https://firebase.tools/bin/win/instant/latest
+
+**Dự phòng**
+
+Video hướng dẫn cài firebase Window
+
+    https://drive.google.com/file/d/1CpeFI3HNbl6laFRe8gbjaIV7hXVA3EA1/view
+
+Video hướng dẫn sửa lỗi firebase Window
+
+    https://drive.google.com/file/d/1gUkRYIHChnH4nh1SbK1aNuLN2NIJoh0q/view?usp=sharing
 
 **MAC**
 
@@ -500,18 +524,30 @@ Gõ câu lệnh sau để upload website lên cloud
 3. Quản lý source code: Git. Sử dụng `github, gitlab, bitbucket`
 4. Sử dụng Platform CSS: Bootstrap, SCSS, TailwinCSS,...
 5. Sử dụng Platform Front-End: ReactJS, AngularJS, VueJS,...
+
+> Với kinh nghiệm dưới 1 năm cùng với số kỹ năng trên các bạn đã có thể đạt được mức thu nhập từ **8tr ~ 12tr**
+
 6. Lập trình Server Side: PHP, Nodejs, Next, Nuxt,...
 7. Lập trình Mobile: Flutter, Dart, ReactNative,...
-8. Kỹ năng mềm:
+8. Sử dụng Database: MongoDB, MySQL, Postgres,...
+9. Lập trnhf API: RestAPI, Graphql,...
+
+> Bổ sung thêm các ký năng liên quan tới Server hoặc chuyển hướng tiếp cần qua giao diện Mobile App. Có thể sử dụng được các database và viết được API. Các bạn đã trở thành một FullStack Developer có mức lượng **trên 15tr**
+
+10. Kỹ năng mềm:
 
 - Quản lý task, Estimate thời gian
 - Ngoại ngữ: Tiếng anh
 - ...
 
-9. Team Leader & Project Manager:
+> Bổ sung thêm các kỹ năng mêm bổ trợ cho việc giao tiếp, quản lý công việc sẽ giúp bạn trở thành một team leader các bạn sẽ phải làm việc với con người nhiều hơn. Mức thu nhập lúc này đã có thể **trên 20tr**
+
+11. Team Leader & Project Manager:
 
 - Quy trình Agile Scrum, Kanban,...
 - Đặc tả yêu cầu từ các sơ đồ: UML, BPMN,..
+
+> Tiến xa hơn các bạn sẽ trở thành một người hoàn toàn độc lập trong việc đãn dắt một dự án với các ký năng quản lý đội nhóm, trao đổi thông tin với khách hàng. Mức thu nhập lúc này đã có thể **trên 30tr**
 
 10. Tech Lead & DevOp
 
@@ -520,9 +556,37 @@ Gõ câu lệnh sau để upload website lên cloud
 - Hệ thống deploy: Docker Swarm, K8s,...
 - Quản lý Cloud Service: AWS, Google Cloud, Azure,...
 
+> Một hướng đi khác nếu bạn không phải là một người giỏi trong việc giao tiếp cũng như làm việc đội nhóm, các bạn có thể hướng tới trở thành một chuyên gia thực thụ trong lĩnh vực của mình. Bạn sẽ cần phải có những kiến thức chuyên sâu hơn về công nghệ. Với những ký năng trên ít nhất cũng được bonus thêm **8tr trở lên**
+
 ### Phương pháp học
 
 1. Tự Học Online
+
+Một số các kênh mà các bạn có thể tự học online:
+
+    https://www.w3schools.com/
+
+    https://www.freecodecamp.org/
+
+    ...
+
 2. Khoá Học Offline
+
+Đăng ký những khoá học lập trình offline sẽ giúp nâng cao trải nghiệm và nhận được nhiều kinh nghiệm hơn so với việc chỉ học `kiến thức` quả các kênh học online.
+
 3. Trải nghiệm thực tế
-4. Khoá học chuyên sau từ Hitek Academy
+
+Sẽ không có ý nghĩa nếu bạn chỉ học và biết về kiến thức lập trình mà không thực sự nhúng tay vào làm. Lập trình là một ngành có đặc thù là **Bạn code càng nhiều, bạn càng giỏi**
+
+Một số cách để nâng cao trải nghiệm lập trình
+
+- Tham gia khoá học trả phí
+- Dự án cá nhân
+- Tham gia thử việc và bắt đầu công việc lập trình với các dự án thực tế
+- Chia sẻ kiến thức qua cộng đồng
+- Giảng dạy
+- ...
+
+4. Khoá học chuyên sâu từ Hitek Academy
+
+> Thật hay là **Hitek Academy** đã tổ chức ra một khoá học hội tụ đẩy đủ các nhu cầu để các bạn đạt được **`Kiến thức` - `Kinh nghiệm` và `Trải nghiệm`**. Điều khiến khoá học của **Hitek Academy** trở nên khác biết với tất cả các khoá học mà trước đây anh từng thấy là trong nội dung của khoá học, các bạn có hẵng **Một tháng trải nghiệm môi trường làm việc thực tế** tại `Hitek`. **Sau 5 tháng** chuẩn bị các ký năng và kiến thức, các bạn sẽ được mài dũa ngay với **môi trường lập trình thực tế, dự án thực thế** và làm việc cũng những đồng đội nhiều năm kinh nghiệm.
