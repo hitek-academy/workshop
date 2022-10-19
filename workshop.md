@@ -549,7 +549,7 @@ Gõ câu lệnh sau để upload website lên cloud
 
 > Tiến xa hơn các bạn sẽ trở thành một người hoàn toàn độc lập trong việc đãn dắt một dự án với các ký năng quản lý đội nhóm, trao đổi thông tin với khách hàng. Mức thu nhập lúc này đã có thể **trên 30tr**
 
-10. Tech Lead & DevOp
+12. Tech Lead & DevOp
 
 - Tự động hoá CI / CD
 - Đóng gói Docker
